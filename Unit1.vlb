@@ -1,0 +1,13 @@
+﻿[Edit1]
+Coordinates=10,78,44,58
+
+[Button2]
+Coordinates=187,10,59,58
+
+[Button1]
+Coordinates=64,10,59,58
+Visible=True
+
+[]
+Coordinates=133,10,44,58
+
